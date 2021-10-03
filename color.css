@@ -1,0 +1,46 @@
+.color{
+    color:#ff0000;
+    margin-top:10px;
+    margin-left:700px;
+    text-decoration: line-through;
+  }
+  .colorr{
+    color:#0000ff;
+    margin-top:10px;
+    margin-left:700px;
+    text-decoration: line-through;
+  }
+  h1 {
+    font-size: 65px;
+  }
+  h2 {
+    font-size: 55px;
+    text-decoration:wavy;
+  }
+  h3 {
+    font-size: 45px;
+  }
+  h4 {
+    font-size: 35px;
+  }
+  h5 {
+    font-size: 25px;
+  }
+  h6 {
+    font-size: 15px;
+  }
+  .cardd{
+    margin-left:650px;
+    height:200px;
+    width:200px;
+  }
+  .name{
+    color:#afeeee;
+    margin-top:10px;
+    margin-left:600px;
+  }
+  .pic{
+    margin-left:700px;
+    height:200px;
+    width:200px;
+  }
